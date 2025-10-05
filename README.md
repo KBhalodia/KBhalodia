@@ -1,5 +1,8 @@
 ## Hi there 👋
-
+🎓 Computer Science major at Rutgers University (Class of 2028)
+💡 Passionate about software development, problem-solving, and building creative projects.
+🌱 Learning full-stack development with React, Java, and Python.
+⚡ Fun fact: I love blending art and technology — I’m pursuing a minor in Art!
 <!--
 **KBhalodia/KBhalodia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
